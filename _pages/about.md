@@ -18,6 +18,7 @@ News
 2022/
 
 
+
 Publications
 ======
 1. Chai, X., Zhang, H., Zhu, A., et al. Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration. (finished)
@@ -35,23 +36,24 @@ Competitions Activities
 
 Honors and Awards
 ======
-*2024-9 Outstanding Graduate Student.
-*2024-5 Solar Decathlon Design Challenge 2024.
-*2023-12 International Solar Building Design Competition 2023.
-*2023-10 Southeast University Postgraduate Academic Scholarship.
-*2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
-*2023-8 11th National College Digital Art and Design Awards.
-*2023-6 The 9th National Youth Science Popularization Innovation Experiment and Works Competition.
+* 2024-9 Outstanding Graduate Student.
+* 2024-5 Solar Decathlon Design Challenge 2024.
+* 2023-12 International Solar Building Design Competition 2023.
+* 2023-10 Southeast University Postgraduate Academic Scholarship.
+* 2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
+* 2023-8 11th National College Digital Art and Design Awards.
+* 2023-6 The 9th National Youth Science Popularization Innovation Experiment and Works Competition.
 
 Educations
 ======
-*Southeast University, MS in Architecture Technology 2022.9 – 2025.6
-*Hunan City University, BS in Architecture 2011.9 – 2016.6
+* Southeast University, MS in Architecture Technology 2022.9 – 2025.6
+* Hunan City University, BS in Architecture 2011.9 – 2016.6
+
 
 Work Experiences
 ======
-*Science and Technology Development Center of Jiangsu Province
-  *Internship | Jiangsu, China 2023.10 – 2024.1
-*NATURALBUILD Company
-  *Architect, Resident Architect | Shanghai, China 2016.8 – 2021.6
+* Science and Technology Development Center of Jiangsu Province
+  * Internship | Jiangsu, China 2023.10 – 2024.1
+* NATURALBUILD Company
+  * Architect, Resident Architect | Shanghai, China 2016.8 – 2022.3
 
