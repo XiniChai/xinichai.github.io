@@ -12,10 +12,10 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 ======
-2025/
-2024/
-2023/
-2022/
+* 2025/
+* 2024/
+* 2023/
+* 2022/
 
 
 
@@ -33,6 +33,16 @@ Example: editing a Markdown file for a talk
 
 Competitions Activities
 ------
+
+
+#title: "Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception
+#<img width="1653" height="81" alt="image" src="https://github.com/user-attachments/assets/c3155305-e82f-4a66-9758-dae93bcc32cc" />
+
+---
+title: "Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception"
+excerpt: "Short description of portfolio item number 1<br/><img width="820" height="40" alt= "image" src='/images/2025_Component-based'>"
+collection: portfolio
+---
 
 Honors and Awards
 ======
