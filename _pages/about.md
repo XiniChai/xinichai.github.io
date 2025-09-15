@@ -56,7 +56,6 @@ Publications
         
 
 
-
 <table style="border:none; border-collapse:collapse; width:100%;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
@@ -71,7 +70,6 @@ Publications
     </td>
   </tr>
 </table>
-
 
 
 
@@ -117,6 +115,7 @@ Publications
 
 Competitions Activities
 ------
+
 <table style="border:none; border-collapse:collapse; width:100%;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
@@ -157,6 +156,7 @@ Competitions Activities
     </td>
   </tr>
 </table>
+
 
 
 
