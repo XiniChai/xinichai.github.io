@@ -27,22 +27,18 @@ Publications
 1. Zhou, C., Zhang, H., Chai, X., et al. Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]. Architectural Intelligence,2024.
 1. Chen, X., Zhou, Y., Chai, X., et al. Algae Reactor: A 3D-printed façade module for cultivating chlorella with indoor CO2. The 6th Conference on Computational Design and Robotic Fabrication, 2024.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
 
 Competitions Activities
 ------
 
+Example: editing a Markdown file for a talk
+![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-#title: "Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception
-#<img width="1653" height="81" alt="image" src="https://github.com/user-attachments/assets/c3155305-e82f-4a66-9758-dae93bcc32cc" />
 
----
 title: "Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception"
-excerpt: "Short description of portfolio item number 1<br/><img width="820" height="40" alt= "image" src='/images/2025_Component-based'>"
-collection: portfolio
----
+excerpt: "Short description of portfolio item number 1<br/><img alt="image" src='/images/2025_Component-based.jpg'>"
+collection: portfolio 这是一个描述图片的文本，它会在图片的右边显示
+
 
 Honors and Awards
 ======
