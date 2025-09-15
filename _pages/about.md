@@ -46,6 +46,23 @@ Publications
 
 
 
+<table style="border:none; border-collapse:collapse; width:100%;">
+  <tr style="border:none;">
+    <!-- 左侧图片 -->
+    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
+      <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+    </td>
+    <!-- 右侧文字 -->
+    <td style="border:none; vertical-align:top;">
+      <p>👋 大家好，我是某某，目前就读于东南大学建筑学智能设计与先进建造专业硕士。</p>
+      <p>我的研究方向包括 <strong>装配式曲面建筑</strong>、<strong>BIM 语义融合</strong> 和 <strong>计算机视觉在施工进度管理中的应用</strong>。</p>
+      <p>我正在探索如何通过参数化设计、深度学习与语义网技术，提升建筑全生命周期的智能化与自动化水平。</p>
+      <p>欢迎通过邮箱或 GitHub 联系我，一起交流相关研究。</p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 Competitions Activities
