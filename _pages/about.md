@@ -46,14 +46,19 @@ Honors and Awards
 
 Educations
 ======
-* Southeast University, MS in Architecture Technology 2022.9 – 2025.6
-* Hunan City University, BS in Architecture 2011.9 – 2016.6
+* Southeast University, MS in Architecture Technology 2022.9-2025.6
+  * Supervised by [Prof. Hong Zhang](https://arch.seu.edu.cn/zh/main.psp)
+* Hunan City University, BS in Architecture 2011.9-2016.6
 
 
 Work Experiences
 ======
 * Science and Technology Development Center of Jiangsu Province
   * Internship | Jiangsu, China 2023.10 – 2024.1
-* NATURALBUILD Company
+* [Yanfei Architects Company](https://www.yanfeiarchitects.com/)
   * Architect, Resident Architect | Shanghai, China 2016.8 – 2022.3
+  * Managed interior detailing for "[J-house](https://www.yanfeiarchitects.com/j-house)", featured in the 2019 "NEXT" Emerging Architects Show. 
+  * Managed the "[Soft Matter](https://www.yanfeiarchitects.com/soft-matter)" pavilion project at Shanghai Urban Space Art Season, awarded the Special Jury Prize at the 2020 Architecture China Award.
+  * [Yushan summer house]https://www.yanfeiarchitects.com/yushan-summer-house
+  * Acted as the resident architect for [Lost Villa Boutique Hotel](https://www.yanfeiarchitects.com/lostvillayucun) in Yucun, mentioned in the "Journal of Architectural ."The project won the 2018 AIA Honor Award and was invited to the 2018 Venice Biennale.
 
