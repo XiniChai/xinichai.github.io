@@ -19,6 +19,7 @@ News
 
 
 
+
 Publications
 ======
 1. Chai, X., Zhang, H., Zhu, A., et al. Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration. (finished)
@@ -35,41 +36,16 @@ Publications
       <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="max-width:100%;">
     </td>
     <td style="padding-left:20px; border:none;">
-      这里是你的介绍文字。  
-      这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。  
+      <p>这里是你的介绍文字。</p>  
+      <p>这一列会在右边显示，可以放一段说明文字。这一列会在右边显示。 </p>
+      这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。 
+      <p> 这一列会在右边显示，可以放一段说明文字。  这一列会在右边显示，可以放一段说明文字。 这一列会在右边显示， 这一列会在右边显示，这一列会在右边显示， </p> 
     </td>
   </tr>
 </table>
 
 
-<div class="row align-items-start" style="margin-bottom:1rem;">
-  <div class="col-auto" style="max-width:240px;">
-    <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" class="img-fluid rounded" style="width:50%; height:auto;">
-  </div>
-  <div class="col">
-    <p>👋 大家好，我是某某，目前就读于东南大学建筑学智能设计与先进建造专业硕士。</p>
-    <p>我的研究方向包括 <strong>装配式曲面建筑</strong>、<strong>BIM 语义融合</strong> 和 <strong>计算机视觉在施工进度管理中的应用</strong>。</p>
-    <p>欢迎通过邮箱或 GitHub 联系我，一起交流相关研究。</p>
-  </div>
-</div>
 
-<img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="float:left; width:220px; max-width:50%; margin-right:18px; margin-bottom:8px; border-radius:8px;">
-<p>👋 大家好，我是某某，目前就读于东南大学建筑学智能设计与先进建造专业硕士。</p>
-<p>我的研究方向包括 <strong>装配式曲面建筑</strong>、<strong>BIM 语义融合</strong> 和 <strong>计算机视觉在施工进度管理中的应用</strong>。</p>
-<p>欢迎通过邮箱或 GitHub 联系我，一起交流相关研究。</p>
-<div style="clear:both;"></div>
-
-
-<div style="display:flex; gap:18px; align-items:flex-start; margin-bottom:1rem; flex-wrap:wrap;">
-  <div style="flex:0 0 220px; max-width:220px;">
-    <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="width:50%; height:auto; border-radius:8px;">
-  </div>
-  <div style="flex:1; min-width:200px;">
-    <p>👋 大家好，我是某某，目前就读于东南大学建筑学智能设计与先进建造专业硕士。</p>
-    <p>我的研究方向包括 <strong>装配式曲面建筑</strong>、<strong>BIM 语义融合</strong> 和 <strong>计算机视觉在施工进度管理中的应用</strong>。</p>
-    <p>欢迎通过邮箱或 GitHub 联系我，一起交流相关研究。</p>
-  </div>
-</div>
 
 
 Competitions Activities
