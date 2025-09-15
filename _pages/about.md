@@ -28,7 +28,7 @@ Publications
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2025_Construction managment.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
@@ -43,7 +43,7 @@ Publications
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2025_Recognition location.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
@@ -145,7 +145,7 @@ Competitions Activities
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2024_Solar_Decathlon.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2024_.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
