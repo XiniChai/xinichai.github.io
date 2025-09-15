@@ -17,16 +17,18 @@ News
 2023/
 2022/
 
+
 Publications
 ======
-[1] Chai, X., Zhang, H., Zhu, A., et al. Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration. (finished)
-[2] Zhu, A., Chai, X., Shao, Z., et al. An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J]. Automation in Construction. (under review)
-[3] Zhu, A., Shao, Z., Chai, X., et al. Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]. Automation in Construction,2025. (SCI, IF=9.6, JCR-Q1)
-[4] Zhou, C., Zhang, H., Chai, X., et al. Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]. Architectural Intelligence,2024.
-[5] Chen, X., Zhou, Y., Chai, X., et al. Algae Reactor: A 3D-printed façade module for cultivating chlorella with
-indoor CO2. The 6th Conference on Computational Design and Robotic Fabrication, 2024.
+1. Chai, X., Zhang, H., Zhu, A., et al. Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration. (finished)
+1. Zhu, A., Chai, X., Shao, Z., et al. An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J]. Automation in Construction. (under review)
+1. Zhu, A., Shao, Z., Chai, X., et al. Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]. Automation in Construction,2025. (SCI, IF=9.6, JCR-Q1)
+1. Zhou, C., Zhang, H., Chai, X., et al. Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]. Architectural Intelligence,2024.
+1. Chen, X., Zhou, Y., Chai, X., et al. Algae Reactor: A 3D-printed façade module for cultivating chlorella with indoor CO2. The 6th Conference on Computational Design and Robotic Fabrication, 2024.
+
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
+
 
 Competitions Activities
 ------
