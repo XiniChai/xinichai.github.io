@@ -22,7 +22,7 @@ Publications
 [1] Chai, X., Zhang, H., Zhu, A., et al. Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration. (finished)
 [2] Zhu, A., Chai, X., Shao, Z., et al. An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J]. Automation in Construction. (under review)
 [3] Zhu, A., Shao, Z., Chai, X., et al. Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]. Automation in Construction,2025. (SCI, IF=9.6, JCR-Q1)
-[4] Zhou, C., Zhang, H., Chai, X., et al. Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition ——‘Solar Ark3.0’[J]. Architectural Intelligence,2024.
+[4] Zhou, C., Zhang, H., Chai, X., et al. Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]. Architectural Intelligence,2024.
 [5] Chen, X., Zhou, Y., Chai, X., et al. Algae Reactor: A 3D-printed façade module for cultivating chlorella with
 indoor CO2. The 6th Conference on Computational Design and Robotic Fabrication, 2024.
 Example: editing a Markdown file for a talk
@@ -33,7 +33,13 @@ Competitions Activities
 
 Honors and Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+-2024-9 Outstanding Graduate Student.
+-2024-5 Solar Decathlon Design Challenge 2024.
+-2023-12 International Solar Building Design Competition 2023.
+-2023-10 Southeast University Postgraduate Academic Scholarship.
+-2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
+-2023-8 11th National College Digital Art and Design Awards.
+-2023-6 The 9th National Youth Science Popularization Innovation Experiment and Works Competition.
 
 Educations
 ------
