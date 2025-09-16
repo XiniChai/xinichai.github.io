@@ -30,7 +30,7 @@ Publications
 <table class="about-entry">
   <tr>
     <td class="left">
-      <img src="/images/2025_Construction management.jpg" alt="Construction Management" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2025_Construction management.jpg" alt="Construction Management">
     </td>
     <td>
       <p><strong>Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration.</strong>(Finished and waiting to submit)</p>
@@ -43,7 +43,7 @@ Publications
 <table class="about-entry">
   <tr>
     <td class="left">
-      <img src="/images/2025_Recognition location.jpg" alt="Recognition Location" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2025_Recognition location.jpg" alt="Recognition Location">
     </td>
     <td>
       <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization.</strong>(under review)</p>
@@ -57,7 +57,7 @@ Publications
 <table class="about-entry">
   <tr>
     <td class="left">
-      <img src="/images/2025_Component-based.jpg" alt="Component-base BIM" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2025_Component-based.jpg" alt="Component-base BIM">
     </td>
     <td>
       <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception</strong>(<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
@@ -71,7 +71,7 @@ Publications
 <table class="about-entry">
   <tr>
     <td class="left">
-      <img src="/images/2024_SA3.0.jpg" alt="SA3.0 energy" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2024_SA3.0.jpg" alt="SA3.0 energy">
     </td>
     <td>
       <p>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
@@ -85,7 +85,7 @@ Publications
 <table class="about-entry">
   <tr>
     <td class="left">
-      <img src="/images/2024_Algae_Reactor.jpg" alt="Alage Reactor" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2024_Algae_Reactor.jpg" alt="Alage Reactor">
     </td>
     <td>
       <p>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2[C//]</strong> (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a></p>
@@ -98,31 +98,35 @@ Publications
 
 Competitions Activities
 ------
-
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2024_Solar_Decathlon.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2024_Solar_Decathlon.jpg" alt="Alage Reactor">
     </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
-      <p>
-        <strong>2024 Solar Decathlon Design Challenge</strong>
-        (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)
-      </p>
-      <p>Deputy Team Leader | Advisor: Prof. Hong Zhang</p>
-      <p>
-        Project: Education Building Division
-        (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)
-      </p>
-      <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China
-      </p>
+    <td>
+      <p><strong>2024 Solar Decathlon Design Challenge</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
+      <p>Deputy Team Leader | Advisor: Prof. Hong Zhang</p></p>
+      <p>Project: Education Building Division (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
+      <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
     </td>
   </tr>
 </table>
 
-
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2023_cooperative system.jpg" alt="Green Community">
+    </td>
+    <td>
+      <p><strong>2024 Solar Decathlon Design Challenge</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
+      <p>Deputy Team Leader | Advisor: Prof. Hong Zhang</p></p>
+      <p>Project: Education Building Division (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
+      <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
+    </td>
+  </tr>
+</table>
 
 <table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
@@ -132,10 +136,10 @@ Competitions Activities
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
-      <p><strong>2024 Solar Decathlon Design Challenge</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
-      <p>Deputy Team Leader | Advisor: Prof. Hong Zhang</p>
-      <p>Project:Education Building Division(<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
-      <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
+      <p><strong>The 9th National Youth Science Popularization Innovation Experiment and Works Competition.</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
+      <p>Deputy Team Leader | Advisor: Prof. Li Li</p>
+      <p>Project:Co-governance community(<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
+      <p>Result:2nd Place, The 9th National Youth Science Popularization Innovation Experiment and Works Competition. & Tibet University—Lhasa, China</p>
     </td>
   </tr>
 </table>
