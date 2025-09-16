@@ -70,7 +70,7 @@ Publications
   </div>
   <div class="entry-text">
     <p>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J](<a href="https://link.springer.com/article/10.1007/s44223-024-00079-8" target="_blank">Website Link</a>)</p>
-    <p>Zhou, C., Zhang, H., <strong>Chai, X., <strong> et al.</p>
+    <p>Zhou, C., Zhang, H., Chai, X., et al.</p>
     <p>Architectural Intelligence,2024.</p>
   </div>
 </div>
@@ -95,7 +95,7 @@ Competitions Activities
     <img src=""/images/2024_Solar_Decathlon.jpg" alt="SD Competition">
   </div>
   <div class="entry-text">
-    <p><strong>2024 Solar Decathlon Design Challenge</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>)</p>
+    <p>2024 Solar Decathlon Design Challenge (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>)</p>
     <p>Deputy Team Leader, Advisor: Prof. Hong Zhang</p>
     <p>Project: Education Building Division (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank"> Official Results </a>)</p>
     <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
@@ -119,7 +119,7 @@ News
 ======
 
 Honors and Awards
-======
+------
 * 2024-09 Outstanding Graduate Student.
 * 2024-05 Solar Decathlon Design Challenge 2024, 1st place.
 * 2023-12 International Solar Building Design Competition 2023.
