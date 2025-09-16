@@ -30,83 +30,36 @@ Publications
 <table class="about-entry">
   <tr>
     <td class="left">
-      <img src="/images/2025_Construction management.jpg" alt="...">
+      <img src="/images/2025_Construction management.jpg" alt="Construction Management" style="width:100%; height:auto; border-radius:8px;">
     </td>
     <td>
-      <p><strong>Component-Level Construction Progress Management via ...</strong></p>
-      <p>Chai, X., Zhang, H., Zhu, A., et al.</p>
-    </td>
-  </tr>
-</table>
-
-<!-- 与上一表格之间留一空行 -->
-<table class="about-entry">
-  <tr>
-    <td class="left">
-      <img src="/images/2025_Recognition location.jpg" alt="...">
-    </td>
-    <td>
-      <p><strong>An Image Recognition-based Method ...</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
-      <p>Zhu, A., Chai, X., Shao, Z., et al.</p>
-      <p><em>Automation in Construction</em>, 2025.</p>
-    </td>
-  </tr>
-</table>
-
-<!-- 与上一表格之间留一空行 -->
-<table class="about-entry">
-  <tr>
-    <td class="left">
-      <img src="/images/2025_Component-based.jpg.jpg" alt="...">
-    </td>
-    <td>
-      <p><strong>An Image Recognition-based Method ...</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
-      <p>Zhu, A., Chai, X., Shao, Z., et al.</p>
-      <p><em>Automation in Construction</em>, 2025.</p>
-    </td>
-  </tr>
-</table>
-
-
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2025_Construction management.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
-    </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
-      <p><strong> Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration. (Finished and waiting to submit)</strong></p>
-      <p>Chai, X., Zhang, H., Zhu, A., et al. </p>
+      <p><strong>Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration.</strong>(Finished and waiting to submit)</p>
+      <p><strong>Chai, X.,<strong> Zhang, H., Zhu, A., et al.</p>
     </td>
   </tr>
 </table>
         
-
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2025_Recognition location.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2025_Recognition location.jpg" alt="Recognition Location" style="width:100%; height:auto; border-radius:8px;">
     </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
-      <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J](under review)</strong>(<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
-      <p>Zhu, A., Chai, X., Shao, Z., et al. <strong> et al. </p>
+    <td>
+      <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization.</strong>(under review)</p>
+      <p>Zhu, A.,  <strong>Chai, X.,  <strong> Shao, Z., et al.</p>
+      <p><em>Automation in Construction</em>, 2025.</p>
     </td>
   </tr>
 </table>
-        
-
-
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2025_Component-based.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+    
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2025_Component-based.jpg" alt="Component-base BIM" style="width:100%; height:auto; border-radius:8px;">
     </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
+    <td>
       <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception</strong>(<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
       <p>Zhu, A., Shao, Z., <strong> Chai, X.,<strong> et al. </p>
       <p><em>Automation in Construction<em>,2025. (SCI, IF=9.6, JCR-Q1)</p>
@@ -114,40 +67,28 @@ Publications
   </tr>
 </table>
 
-
-
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2024_SA3.0.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2024_SA3.0.jpg" alt="SA3.0 energy" style="width:100%; height:auto; border-radius:8px;">
     </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
-      <p>
-        <strong>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong>
-        (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)
-      </p>
+    <td>
+      <p>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
       <p>Zhou, C., Zhang, H., <strong>Chai, X., <strong> et al.</p>
       <p><em>Architectural Intelligence<em>,2024.</p>
     </td>
   </tr>
 </table>
 
-
-
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2024_Algae_Reactor.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2024_Algae_Reactor.jpg" alt="Alage Reactor" style="width:100%; height:auto; border-radius:8px;">
     </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
-      <p>
-        <strong>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2</strong>
-        (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a>)
-      </p>
+    <td>
+      <p>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2[C//]</strong> (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a></p>
       <p>Chen, X., Zhou, Y., <strong>Chai, X.,<strong> et al.</p>
       <p><em>The 6th Conference on Computational Design and Robotic Fabrication<em>, 2024.</p>
     </td>
