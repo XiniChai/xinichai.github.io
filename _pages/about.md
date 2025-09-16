@@ -27,6 +27,46 @@ News
 
 Publications
 ------
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2025_Construction management.jpg" alt="...">
+    </td>
+    <td>
+      <p><strong>Component-Level Construction Progress Management via ...</strong></p>
+      <p>Chai, X., Zhang, H., Zhu, A., et al.</p>
+    </td>
+  </tr>
+</table>
+
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2025_Recognition location.jpg" alt="...">
+    </td>
+    <td>
+      <p><strong>An Image Recognition-based Method ...</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
+      <p>Zhu, A., Chai, X., Shao, Z., et al.</p>
+      <p><em>Automation in Construction</em>, 2025.</p>
+    </td>
+  </tr>
+</table>
+
+<!-- 与上一表格之间留一空行 -->
+<table class="about-entry">
+  <tr>
+    <td class="left">
+      <img src="/images/2025_Component-based.jpg.jpg" alt="...">
+    </td>
+    <td>
+      <p><strong>An Image Recognition-based Method ...</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
+      <p>Zhu, A., Chai, X., Shao, Z., et al.</p>
+      <p><em>Automation in Construction</em>, 2025.</p>
+    </td>
+  </tr>
+</table>
+
 
 <table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
