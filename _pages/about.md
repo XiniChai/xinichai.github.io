@@ -15,10 +15,14 @@ My research focuses on the intelligent design and construction of prefabricated 
 
 News
 ======
-* 2025/
-* 2024/
-* 2023/
-* 2022/
+* 2025/06：New journal paper is accepted to Automation in Construction 2025
+* 2025/04：New conference paper is accepted to Southeast University (as an oral).
+* 2024/05：Our team won the 1st prize in the Solar Decathlon Design Challenge 2024.
+* 2023/12：Our team won the xx in the International Solar Building Design Competition 2023.
+* 2023/09：Our team won the 1st prize in the 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
+* 2023/08：our team won th 3rd prize in the 11th National College Digital Art and Design Awards.
+* 2023/06：Our team won the 2nd prize in the 9th National Youth Science Popularization Innovation Experiment and Works Competition.
+* 2022/06：I took part in the 12th DigitalFUTURES Workshop.
 
 
 Publications
@@ -160,13 +164,13 @@ Competitions Activities
 
 Honors and Awards
 ======
-* 2024-9 Outstanding Graduate Student.
-* 2024-5 Solar Decathlon Design Challenge 2024.
+* 2024-09 Outstanding Graduate Student.
+* 2024-05 Solar Decathlon Design Challenge 2024.
 * 2023-12 International Solar Building Design Competition 2023.
 * 2023-10 Southeast University Postgraduate Academic Scholarship.
 * 2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
-* 2023-8 11th National College Digital Art and Design Awards.
-* 2023-6 The 9th National Youth Science Popularization Innovation Experiment and Works Competition.
+* 2023-08 The 11th National College Digital Art and Design Awards.
+* 2023-06 The 9th National Youth Science Popularization Innovation Experiment and Works Competition.
 
 Educations
 ======
