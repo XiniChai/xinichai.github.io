@@ -24,11 +24,11 @@ News
 Publications
 ------
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2025_Construction managment.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
+      <img src="/images/2025_Construction management.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
@@ -39,7 +39,7 @@ Publications
 </table>
         
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
@@ -47,16 +47,16 @@ Publications
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
-      <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J](under review)</strong>(<a herf="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
+      <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J](under review)</strong>(<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
       <p>Zhu, A., Chai, X., Shao, Z., et al. <strong> et al. </p>
-      <p>Automation in Construction,2025. </p>
+      <p><em>Automation in Construction<em>,2025. </p>
     </td>
   </tr>
 </table>
         
 
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
@@ -64,16 +64,16 @@ Publications
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
-      <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception</strong>(<a herf="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
+      <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception</strong>(<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
       <p>Zhu, A., Shao, Z., <strong> Chai, X.,<strong> et al. </p>
-      <p>Automation in Construction,2025. (SCI, IF=9.6, JCR-Q1)</p>
+      <p><em>Automation in Construction<em>,2025. (SCI, IF=9.6, JCR-Q1)</p>
     </td>
   </tr>
 </table>
 
 
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
@@ -83,17 +83,17 @@ Publications
     <td style="border:none; vertical-align:top;">
       <p>
         <strong>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong>
-        (<a herf="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)
+        (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)
       </p>
       <p>Zhou, C., Zhang, H., <strong>Chai, X., <strong> et al.</p>
-      <p>Architectural Intelligence,2024.</p>
+      <p><em>Architectural Intelligence<em>,2024.</p>
     </td>
   </tr>
 </table>
 
 
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
@@ -103,11 +103,10 @@ Publications
     <td style="border:none; vertical-align:top;">
       <p>
         <strong>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2</strong>
-        (<a herf="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a>)
+        (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a>)
       </p>
       <p>Chen, X., Zhou, Y., <strong>Chai, X.,<strong> et al.</p>
-      <p>Project:The 6th Conference on Computational Design and Robotic Fabrication, 2024.</p>
-      <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
+      <p><em>The 6th Conference on Computational Design and Robotic Fabrication<em>, 2024.</p>
     </td>
   </tr>
 </table>
@@ -116,7 +115,7 @@ Publications
 Competitions Activities
 ------
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
@@ -126,12 +125,12 @@ Competitions Activities
     <td style="border:none; vertical-align:top;">
       <p>
         <strong>2024 Solar Decathlon Design Challenge</strong>
-        (<a herf="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)
+        (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)
       </p>
       <p>Deputy Team Leader | Advisor: Prof. Hong Zhang</p>
       <p>
         Project: Education Building Division
-        (<a herf="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)
+        (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)
       </p>
       <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China
       </p>
@@ -141,7 +140,7 @@ Competitions Activities
 
 
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
   <tr style="border:none;">
     <!-- 左侧图片 -->
     <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
@@ -149,9 +148,9 @@ Competitions Activities
     </td>
     <!-- 右侧文字 -->
     <td style="border:none; vertical-align:top;">
-      <p><strong>2024 Solar Decathlon Design Challenge</strong>(<a herf="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
+      <p><strong>2024 Solar Decathlon Design Challenge</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
       <p>Deputy Team Leader | Advisor: Prof. Hong Zhang</p>
-      <p>Project:Education Building Division(<a herf="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
+      <p>Project:Education Building Division(<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
       <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
     </td>
   </tr>
