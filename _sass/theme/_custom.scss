@@ -1,57 +1,41 @@
-/* ===========================
-   _custom.scss
-   自定义覆盖样式
-   =========================== */
-
-/* ---- 1. 表格修正：去除缩进 ---- */
-.about-page table {
-  margin: 0 !important;
-  padding: 0 !important;
-  border: none !important;
-  border-collapse: collapse !important;
-  width: 100% !important;
+/* ============================
+   Flex Layout for About Entries
+============================ */
+.about-entry {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px 0;
+  background: #fff;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-.about-page table tr,
-.about-page table td {
-  border: none !important;
-  padding: 0 !important;
-  vertical-align: top;
+/* 左侧图片 */
+.about-entry .entry-image {
+  flex: 0 0 220px; /* 固定图片区域宽度 */
+  margin-right: 20px;
 }
 
-/* ---- 2. 图片阴影 ---- */
-.about-page img {
+.about-entry .entry-image img {
+  width: 100%;
   border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  transition: box-shadow 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-.about-page img:hover {
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+/* 右侧文字 */
+.about-entry .entry-text {
+  flex: 1;
 }
 
-/* ---- 3. 字体设置 ---- */
-body {
-  font-family: "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif !important;
-  font-size: 16px !important;
-  line-height: 1.6 !important;
-  color: #222 !important;
-}
-
-/* 小标题 */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif !important;
-  font-weight: 600;
-  line-height: 1.3;
-  color: #111;
-}
-
-/* ---- 4. 页面宽度调整 ---- */
-.container,
-.page,
-.layout,
-.wrapper {
-  max-width: 1400px !important;  /* 默认 1140px，可改大一些 */
-  margin: 0 auto !important;
-  padding: 0 20px;
+/* badge 可选小标签 */
+.about-entry .badge {
+  display: inline-block;
+  background: #007bff;
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 3px 8px;
+  border-radius: 5px;
+  margin-bottom: 8px;
 }
