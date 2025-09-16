@@ -49,7 +49,6 @@ Publications
     <td style="border:none; vertical-align:top;">
       <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization[J](under review)</strong>(<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
       <p>Zhu, A., Chai, X., Shao, Z., et al. <strong> et al. </p>
-      <p><em>Automation in Construction<em>,2025. </p>
     </td>
   </tr>
 </table>
