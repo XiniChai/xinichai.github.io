@@ -11,19 +11,7 @@ Hi! Welcome to my homepage. I'm Chai Xini. I graduated from Southeast University
 
 My research focuses on the intelligent design and construction of prefabricated buildings, encompassing computer vision, robot navigation, and positioning in construction and inspection, as well as enhancing robotic perception through the integration of BIM, semantic web, and visual systems.
 
-My email is chaxn@seu.edu.cn(or chaixini@126.com)
-
-News
-======
-* 2025/06：New journal paper is accepted to Automation in Construction 2025
-* 2025/04：New conference paper is accepted to Southeast University (as an oral).
-* 2024/05：Our team won the 1st prize in the Solar Decathlon Design Challenge 2024.
-* 2023/12：Our team won the xx in the International Solar Building Design Competition 2023.
-* 2023/09：Our team won the 1st prize in the 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
-* 2023/08：our team won th 3rd prize in the 11th National College Digital Art and Design Awards.
-* 2023/06：Our team won the 2nd prize in the 9th National Youth Science Popularization Innovation Experiment and Works Competition.
-* 2022/06：I took part in the 12th DigitalFUTURES Workshop.
-
+My email is chaixn@seu.edu.cn(or chaixini@126.com)
 
 Publications
 ------     
@@ -57,9 +45,11 @@ Publications
     <img src="/images/2025_Component-based.jpg" alt="Component-based BIM">
   </div>
   <div class="entry-text">
-    <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]</strong> (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
-    <p>Zhu, A., Shao, Z., <strong>Chai, X.,</strong> et al.</p>
-    <p><em>Automation in Construction</em>, 2025. (SCI, IF=9.6, JCR-Q1)</p>
+    <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]</strong>
+      (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)
+      Zhu, A., Shao, Z., <strong>Chai, X.,</strong> et al.
+      <em>Automation in Construction</em>, 2025. (SCI, IF=9.6, JCR-Q1)
+    </p>
   </div>
 </div>
 
