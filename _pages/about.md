@@ -45,9 +45,7 @@ Publications
     <img src="/images/2025_Recognition location.jpg" alt="Recognition Location">
   </div>
   <div class="entry-text">
-    <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization</strong> (under review)
-      (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank"> Website Link </a>)
-    </p>
+    <p>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization(under review)</p>
     <p>Zhu, A., Chai, X., Shao, Z., et al.</p>
     <p>Automation in Construction</p>
   </div>
@@ -59,10 +57,8 @@ Publications
     <img src="/images/2025_Component-based.jpg" alt="Component-based BIM">
   </div>
   <div class="entry-text">
-    <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]</strong> 
-      (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank"> Website Link </a>)
-    </p>
-    <p>Zhu, A., Shao, Z.,<strong> Chai, X., <strong> et al.</p>
+    <p>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J](<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)</p>
+    <p>Zhu, A., Shao, Z., Chai, X., et al.</p>
     <p>Automation in Construction, 2025. (SCI, IF=9.6, JCR-Q1)</p>
   </div>
 </div>
@@ -73,9 +69,7 @@ Publications
     <img src="/images/2024_SA3.0.jpg" alt="SA3.0 energy">
   </div>
   <div class="entry-text">
-    <p><strong>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong> 
-      (<a href="https://link.springer.com/article/10.1007/s44223-024-00079-8" target="_blank"> Website Link </a>)
-    </p>
+    <p>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J](<a href="https://link.springer.com/article/10.1007/s44223-024-00079-8" target="_blank">Website Link</a>)</p>
     <p>Zhou, C., Zhang, H., <strong>Chai, X., <strong> et al.</p>
     <p>Architectural Intelligence,2024.</p>
   </div>
@@ -87,11 +81,9 @@ Publications
     <img src="/images/2024_Algae_Reactor.jpg" alt="Alage Reactor">
   </div>
   <div class="entry-text">
-    <p><strong>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2[C//]</strong> 
-      (<a href="[https://doi.org/10.1016/j.autcon.2025.106270](https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14)" target="_blank">Website Link</a>)
-    </p>
-    <p>Chen, X., Zhou, Y., <strong>Chai, X.,<strong> et al.</p>
-    <p><em>The 6th Conference on Computational Design and Robotic Fabrication<em>, 2024.</p>
+    <p>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2(<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a>)</p>
+    <p>Chen, X., Zhou, Y., Chai, X., et al.</p>
+    <p>The 6th Conference on Computational Design and Robotic Fabrication, 2024.</p>
   </div>
 </div>
 
@@ -116,11 +108,15 @@ Competitions Activities
     <img src=""/images/2023_cooperative system.jpg" alt="Green Community">
   </div>
   <div class="entry-text">
-    <p><strong>2024 Solar Decathlon Design Challenge</strong></p>
+    <p>2024 Solar Decathlon Design Challenge</p>
     <p>Team Leader, Advisor: Prof. Li Li</p>
     <p>Result:2nd Place</p>
   </div>
 </div>
+
+
+News
+======
 
 Honors and Awards
 ======
