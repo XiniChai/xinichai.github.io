@@ -82,7 +82,7 @@ Competitions Activities
 <!-- SD竞赛 -->
 <div class="about-entry">
   <div class="entry-image">
-    <img src=""/images/2024_Solar_Decathlon.jpg" alt="SD Competition">
+    <img src="/images/2024_Solar_Decathlon.jpg" alt="SD Competition">
   </div>
   <div class="entry-text">
     <p><strong>2024 Solar Decathlon Design Challenge</strong>  (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>)</p>
@@ -95,7 +95,7 @@ Competitions Activities
 <!-- 社区 -->
 <div class="about-entry">
   <div class="entry-image">
-    <img src=""/images/2023_cooperative system.jpg" alt="Green Community">
+    <img src="/images/2023_cooperative system.jpg" alt="Green Community">
   </div>
   <div class="entry-text">
     <p><strong>Smart Community Greening Co-governance System Based on Computer Vision </strong> </p>
