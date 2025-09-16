@@ -399,3 +399,37 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* about 页专用无缩进表格 + 图片阴影 */
+.about-entry {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: table !important;          /* 保持表格语义 */
+  border-collapse: collapse !important;
+  float: none !important;
+  clear: both !important;
+}
+
+.about-entry tr,
+.about-entry td,
+.about-entry th {
+  vertical-align: top !important;
+  border: none !important;            /* 去掉单元格边框 */
+  padding: 0 !important;
+}
+
+.about-entry td.left {
+  width: 220px !important;            /* 固定左栏宽度可改 */
+  padding-right: 20px !important;
+}
+
+.about-entry img {
+  width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12) !important; /* 阴影 */
+}
+
