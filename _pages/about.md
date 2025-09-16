@@ -48,7 +48,7 @@ Publications
     <td>
       <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization.</strong>(under review)</p>
       <p>Zhu, A.,  <strong>Chai, X.,  <strong> Shao, Z., et al.</p>
-      <p><em>Automation in Construction</em>, 2025.</p>
+      <p><em>Automation in Construction</em></p>
     </td>
   </tr>
 </table>
@@ -128,29 +128,10 @@ Competitions Activities
   </tr>
 </table>
 
-<table style="border:none; border-collapse:collapse; width:100%; margin:0; padding:0;">
-  <tr style="border:none;">
-    <!-- 左侧图片 -->
-    <td style="width:220px; border:none; vertical-align:top; padding:0 20px 0 0;">
-      <img src="/images/2024_.jpg" alt="Component-based BIM" style="width:100%; height:auto; border-radius:8px;">
-    </td>
-    <!-- 右侧文字 -->
-    <td style="border:none; vertical-align:top;">
-      <p><strong>The 9th National Youth Science Popularization Innovation Experiment and Works Competition.</strong>(<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>,2023.11–2024.4)</p>
-      <p>Deputy Team Leader | Advisor: Prof. Li Li</p>
-      <p>Project:Co-governance community(<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank">Official Results</a>)</p>
-      <p>Result:2nd Place, The 9th National Youth Science Popularization Innovation Experiment and Works Competition. & Tibet University—Lhasa, China</p>
-    </td>
-  </tr>
-</table>
-
-
-
-
 Honors and Awards
 ======
 * 2024-09 Outstanding Graduate Student.
-* 2024-05 Solar Decathlon Design Challenge 2024.
+* 2024-05 Solar Decathlon Design Challenge 2024, 1st place.
 * 2023-12 International Solar Building Design Competition 2023.
 * 2023-10 Southeast University Postgraduate Academic Scholarship.
 * 2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
@@ -162,7 +143,6 @@ Educations
 * Southeast University, MS in Architecture Technology 2022.9-2025.6
   * Supervised by [Prof. Hong Zhang](https://arch.seu.edu.cn/zh/main.psp)
 * Hunan City University, BS in Architecture 2011.9-2016.6
-
 
 Work Experiences
 ======
