@@ -85,7 +85,7 @@ Competitions Activities
     <img src=""/images/2024_Solar_Decathlon.jpg" alt="SD Competition">
   </div>
   <div class="entry-text">
-    <p>2024 Solar Decathlon Design Challenge (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>)</p>
+    <p><strong>2024 Solar Decathlon Design Challenge</strong>  (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>)</p>
     <p>Deputy Team Leader, Advisor: Prof. Hong Zhang</p>
     <p>Project: Education Building Division (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank"> Official Results </a>)</p>
     <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
@@ -98,7 +98,7 @@ Competitions Activities
     <img src=""/images/2023_cooperative system.jpg" alt="Green Community">
   </div>
   <div class="entry-text">
-    <p>2024 Solar Decathlon Design Challenge</p>
+    <p><strong>Smart Community Greening Co-governance System Based on Computer Vision </strong> </p>
     <p>Team Leader, Advisor: Prof. Li Li</p>
     <p>Result:2nd Place</p>
   </div>
@@ -112,11 +112,11 @@ Honors and Awards
 ------
 * 2024-09 Outstanding Graduate Student.
 * 2024-05 Solar Decathlon Design Challenge 2024, 1st place.
-* 2023-12 International Solar Building Design Competition 2023.
-* 2023-10 Southeast University Postgraduate Academic Scholarship.
-* 2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction.
-* 2023-08 The 11th National College Digital Art and Design Awards.
-* 2023-06 The 9th National Youth Science Popularization Innovation Experiment and Works Competition.
+* 2023-12 International Solar Building Design Competition 2023, The Excellence Award.
+* 2023-10 Southeast University Postgraduate Academic Scholarship, 1st Prize.
+* 2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction, 1st Place.
+* 2023-08 The 11th National College Digital Art and Design Awards, 3rd Place.
+* 2023-06 The 9th National Youth Science Popularization Innovation Experiment and Works Competition, 2nd Place.
 
 Educations
 ======
