@@ -22,7 +22,7 @@ Publications
     <img src="/images/2025_Construction management.jpg" alt="Construction Management">
   </div>
   <div class="entry-text">
-    <p><strong>Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration</strong> (Finished and waiting to submit)</p>
+    <p><strong>Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration</strong> (Finished, and waiting submission)</p>
     <p><strong>Chai, X.,</strong> Zhang, H., Zhu, A., et al.</p>
   </div>
 </div>
