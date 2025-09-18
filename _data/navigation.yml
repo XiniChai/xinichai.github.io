@@ -17,8 +17,8 @@ main:
   - title: "Work Experiences"
     url: /Work/
 
-  #- title: "CV"
-    #url: /cv/
+  - title: "CV"
+    url: /files/chaixn.pdf
 
   #- title: "Talks"
     #url: /talks/    
