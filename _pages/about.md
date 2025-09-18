@@ -20,8 +20,9 @@ Publications
     <img src="/images/2025_Construction management.jpg" alt="Construction Management">
   </div>
   <div class="entry-text">
-    <p><strong>Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration</strong> (Finished, and waiting submission)</p>
-    <p><strong>Chai, X.,</strong> Zhang, H., Zhu, A., et al.</p>
+    <p><strong>Component-Level Construction Progress Management via YOLO-Based BIM Visualization and Semantic Web Integration</strong>(Finished, and waiting submission),
+      <strong>Chai, X.,</strong> Zhang, H., Zhu, A., et al.
+    </p>
   </div>
 </div>
 
@@ -31,9 +32,10 @@ Publications
     <img src="/images/2025_Recognition location.jpg" alt="Recognition Location">
   </div>
   <div class="entry-text">
-    <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization</strong>(under review)</p>
-    <p>Zhu, A., <strong>Chai, X.,</strong> Shao, Z., et al.</p>
-    <p>Automation in Construction</p>
+    <p><strong>An Image Recognition-based Method for Hardware-Free Robotic Building Space Localization</strong>(under review),
+      Zhu, A., <strong>Chai, X.,</strong> Shao, Z., et al.
+      Automation in Construction
+    </p>
   </div>
 </div>
 
@@ -44,7 +46,7 @@ Publications
   </div>
   <div class="entry-text">
     <p><strong>Component-based BIM-Semantic Web Integration for Enhanced Robotic Visual Perception[J]</strong>
-      (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank">Website Link</a>)
+      (<a href="https://doi.org/10.1016/j.autcon.2025.106270" target="_blank"> Paper Link</a>),
       Zhu, A., Shao, Z., <strong>Chai, X.,</strong> et al.
       <em>Automation in Construction</em>, 2025. (SCI, IF=9.6, JCR-Q1)
     </p>
@@ -57,9 +59,10 @@ Publications
     <img src="/images/2024_SA3.0.jpg" alt="SA3.0 energy">
   </div>
   <div class="entry-text">
-    <p><strong>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong> (<a href="https://link.springer.com/article/10.1007/s44223-024-00079-8" target="_blank">Website Link</a>)</p>
-    <p>Zhou, C., Zhang, H., <strong>Chai, X.,</strong> et al.</p>
-    <p>Architectural Intelligence,2024.</p>
+    <p><strong>Research on the design of prefabricated curved structure production capacity residential energy system: a case study of an entry of 2022 China International Solar Decathlon Competition—‘Solar Ark3.0’[J]</strong> (<a href="https://link.springer.com/article/10.1007/s44223-024-00079-8" target="_blank"> Paper Link </a>)
+      Zhou, C., Zhang, H., <strong>Chai, X.,</strong> et al.
+      <em>Architectural Intelligence</em>,2024.
+    </p>
   </div>
 </div>
 
@@ -69,10 +72,10 @@ Publications
     <img src="/images/2024_Algae_Reactor.jpg" alt="Alage Reactor">
   </div>
   <div class="entry-text">
-    <p><strong>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2</strong> (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a>)</p>
-    <p>Chen, X., Zhou, Y., <strong>Chai, X.,</strong> et al.</p>
-    <p>The 6th Conference on Computational Design and Robotic Fabrication, 2024.</p>
-    <p>(<a href="https://parametric-architecture.com/algae-reactor-a-3d-printed-module-that-cleans-air-and-produces-algae-biomass/?srsltid=AfmBOooYsfQQBobhX21E3JeKs4jG6diUtatDjv4BgJCne2g-PXhC9EvC" target="_blank"> More details in PA </a>)</p>
+    <p><strong>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2</strong> (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank"> Paper Link</a>)
+    Chen, X., Zhou, Y., <strong>Chai, X.,</strong> et al.
+    <em>The 6th Conference on Computational Design and Robotic Fabrication</em>, 2024.</p>
+    <p>More details in PA (<a href="https://parametric-architecture.com/algae-reactor-a-3d-printed-module-that-cleans-air-and-produces-algae-biomass/?srsltid=AfmBOooYsfQQBobhX21E3JeKs4jG6diUtatDjv4BgJCne2g-PXhC9EvC" target="_blank"> Website Link </a>)</p>
   </div>
 </div>
 
