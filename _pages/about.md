@@ -9,9 +9,7 @@ redirect_from:
 
 Hi! Welcome to my homepage. I'm Chai Xini. I graduated from Southeast University's School of Architecture in June 2025, with a major in [Smart Design and Advanced Construction](https://arch.seu.edu.cn/2022/0602/c9118a410612/page.htm). I researched the smart construction of prefabricated buildings under [Prof. Hong Zhang](https://arch.seu.edu.cn/zh/main.psp). I have a Bachelor's degree in Architecture from Hunan City University. After graduation, I worked at Shanghai [Yanfei Architecture Studio](https://www.yanfeiarchitects.com/) for four years, gaining experience in architectural design and project management.
 
-My research focuses on the intelligent design and construction of prefabricated buildings, encompassing computer vision, robot navigation, and positioning in construction and inspection, as well as enhancing robotic perception through the integration of BIM, semantic web, and visual systems.
-
-My email is chaixn@seu.edu.cn(or chaixini@126.com)
+My research focuses on intelligent construction of prefabricated buildings, BIM–Semantic Web integration, and computer vision for construction management. My email is chaixn@seu.edu.cn(or chaixini@126.com). 
 
 Publications
 ------     
@@ -74,44 +72,14 @@ Publications
     <p><strong>Algae Reactor: A 3D-printed façade module for cultivating Chlorella with indoor CO2</strong> (<a href="https://link.springer.com/chapter/10.1007/978-981-96-3433-0_14" target="_blank">Website Link</a>)</p>
     <p>Chen, X., Zhou, Y., <strong>Chai, X.,</strong> et al.</p>
     <p>The 6th Conference on Computational Design and Robotic Fabrication, 2024.</p>
+    <p>(<a href="https://parametric-architecture.com/algae-reactor-a-3d-printed-module-that-cleans-air-and-produces-algae-biomass/?srsltid=AfmBOooYsfQQBobhX21E3JeKs4jG6diUtatDjv4BgJCne2g-PXhC9EvC" target="_blank"> More details in PA </a>)</p>
   </div>
 </div>
-
-Competitions Activities
-------
-<!-- SD竞赛 -->
-<div class="about-entry">
-  <div class="entry-image">
-    <img src="/images/2024_Solar_Decathlon.jpg" alt="SD Competition">
-  </div>
-  <div class="entry-text">
-    <p><strong>2024 Solar Decathlon Design Challenge</strong>  (<a href="https://www.youtube.com/watch?v=v8HBQzMONmI" target="_blank">Video Link</a>)</p>
-    <p>Deputy Team Leader, Advisor: Prof. Hong Zhang</p>
-    <p>Project: Education Building Division (<a href="https://www.solardecathlon.gov/past/design/2024/results" target="_blank"> Official Results </a>)</p>
-    <p>Result:1st Place, Southeast University—Nanjing, China & Tibet University—Lhasa, China</p>
-  </div>
-</div>
-
-<!-- 社区 -->
-<div class="about-entry">
-  <div class="entry-image">
-    <img src="/images/2023_cooperative system.jpg" alt="Green Community">
-  </div>
-  <div class="entry-text">
-    <p><strong>Smart Community Greening Co-governance System Based on Computer Vision </strong> </p>
-    <p>Team Leader, Advisor: Prof. Li Li</p>
-    <p>Result:2nd Place</p>
-  </div>
-</div>
-
-
-News
-======
 
 Honors and Awards
 ------
 * 2024-09 Outstanding Graduate Student.
-* 2024-05 Solar Decathlon Design Challenge 2024, 1st place.
+* 2024-05 [Solar Decathlon Design Challenge 2024, 1st place.](https://www.solardecathlon.gov/past/design/2024/results)
 * 2023-12 International Solar Building Design Competition 2023, The Excellence Award.
 * 2023-10 Southeast University Postgraduate Academic Scholarship, 1st Prize.
 * 2023-10 The 3rd National Competition for College Students in Industrialized Building and Intelligent Construction, 1st Place.
